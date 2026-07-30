@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hwagok-coin-karaoke-note.go-bangbae-room.xyz/sitemap.xml
+Sitemap: https://hwagok-coin-karaoke-note.go-bangbae-room.xyz/sitemap-pages.xml
